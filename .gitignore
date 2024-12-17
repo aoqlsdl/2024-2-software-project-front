@@ -38,3 +38,12 @@ packages/react-devtools-shell/dist
 packages/react-devtools-timeline/dist
 
 .env
+
+# yarn berry
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
