@@ -1,0 +1,38 @@
+{
+	"이화연": {
+		"name": "AI시대미래교육의이해",
+		"code": "AI101-01",
+		"credit": 3,
+		"schedule": "월 8~9",
+		"prof": "정재영",
+		"time": "3",
+		"location": "교B251",
+		"disorder": "시각",
+		"severity": "경증",
+		"help": ["노트필기", "이동지원"]
+	},
+	"김이화": {
+		"name": "사회복지학개론",
+		"code": "23791",
+		"credit": 3,
+		"schedule": "월6수5",
+		"prof": "정순둘",
+		"time": "3",
+		"location": "포161",
+		"disorder": "지체",
+		"severity": "중증",
+		"help": ["노트필기", "이동지원"]
+	},
+	"황사복": {
+		"name": "인간행동과사회환경",
+		"code": "12468",
+		"credit": 3,
+		"schedule": "화5목4",
+		"prof": "정순둘",
+		"time": "3",
+		"location": "포B161",
+		"disorder": "청각",
+		"severity": "경증",
+		"help": ["노트필기"]
+	}
+}

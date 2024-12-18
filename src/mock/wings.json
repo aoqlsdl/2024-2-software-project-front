@@ -1,0 +1,26 @@
+{
+	"초록미르 나래": {
+		"image": "/imgs/chorok.webp",
+		"bg_image": "/imgs/bg_chorok.webp",
+		"subTitle": "초록 빛을 띠는 용",
+		"description": "강의 내용을 복습하고 이해하는 데에 도움을 주는 눈과 귀가 되는 초록빛 날개"
+	},
+	"푸른아라 나래": {
+		"image": "/imgs/puruen.webp",
+		"bg_image": "/imgs/bg_puruen.webp",
+		"subTitle": "푸른 빛을 띠는 바다",
+		"description": "학습 효율성을 높이는 눈과 귀가 되어 또다른 전공책이 되어 주는 푸르른 날개"
+	},
+	"온새미로 나래": {
+		"image": "/imgs/onsae.webp",
+		"bg_image": "/imgs/bg_onsae.webp",
+		"subTitle": "언제나 변함없이",
+		"description": "강의를 효과적으로 소화하는 데에 도움을 주는 눈과 귀가 되는 진홍빛 날개"
+	},
+	"들꽃가람 나래": {
+		"image": "/imgs/mock_img_1.png",
+		"bg_image": "/imgs/bg_chorok.webp",
+		"subTitle": "들꽃이 흐르는 강",
+		"description": "수업과 학교 생활에 적극적으로 참여할 수 있도록 해주는 다홍빛 날개"
+	}
+}
